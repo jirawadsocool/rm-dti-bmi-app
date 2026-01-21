@@ -144,7 +144,7 @@ const styles = StyleSheet.create({
     width: "80%",
     marginTop: 25,
     alignItems: "center",
-    backgroundColor: "#4131f9",
+    backgroundColor: "#31def9",
     borderRadius: 10,
     padding: 20,
     shadowOffset: { width: 0, height: 2 },
